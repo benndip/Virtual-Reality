@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: d1c3109bdb54ad54c8a2b2838528e640
+  - enabled: 1
+    path: Assets/Scenes/VR Bowling.unity
+    guid: 741a49b7bd5e316498b96508204d44a6
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 9b43d4b4f6f3161409b94dd90a672f29, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 4dd2ab3d664fd3542821e5958cc5ee17, type: 2}
